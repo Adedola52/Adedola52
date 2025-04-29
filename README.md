@@ -1,6 +1,6 @@
 - Hi, I’m Taibat ABOWABA
 - A data analyst
-- I enjoying exploring data and uncovering meaningful insights from complex large data that helps buisnesses make informed decisions.
+- I enjoy exploring data and uncovering meaningful insights from complex large data that helps buisnesses make informed decisions.
 - Let's connect and explore the world of data together.
 - I am proficient in working with Microsoft excel, MySql, Power bi, Jupter notebook (Python and Machine learning)
 - Reach me via email abowabat@gmail.com
